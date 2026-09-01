@@ -10,11 +10,11 @@
 ---
 ## Tarefas (guia)
 
-- [ ] Definir a equipe
+- [ ] Definir as pessoas da equipe
 - [ ] Fork desse repositório
-- [ ] Atualizar arquivo README.md
+- [ ] Atualizar arquivo README.md com as pessoas da equipe
 - [ ] Definir a história do jogo
-- [ ] Atualizar arquivo README.md
+- [ ] Atualizar arquivo README.md com o título e a história do jogo
 - [ ] Prototipar telas do jogo (figma, papel, etc) e exportar imagens
 - [ ] Atualizar arquivo README.md com imagens do protótipo
 - [ ] Definir engine e a jogabilidade
