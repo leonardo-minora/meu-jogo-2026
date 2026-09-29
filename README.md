@@ -37,4 +37,5 @@ FIXME [Como fazer para jogar?]
 ---
 ## Equipe
 
-FIXME [Link para cada pessoa da equipe. pode conter avatares e fotos.]
+- [Leonardo Ataide Minora](https://github.com/leonardo-minora)
+- Agente Inteligente [Google Antigravity](https://antigravity.google/)
