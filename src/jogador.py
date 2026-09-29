@@ -1,0 +1,1 @@
+# define função do jogador
